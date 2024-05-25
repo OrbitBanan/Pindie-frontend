@@ -1,4 +1,4 @@
-export const BASE_URL = 'https://pindie-backend-orbit.nomoredomainswork.ru'
+export const BASE_URL = 'https://pindie-backend-orbit.nomoredomainswork.ru/api'
 // The backend domain should be in BASE_URL
 
 export const endpoints = {
